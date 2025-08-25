@@ -76,6 +76,7 @@ class Subscriber implements ISubscriber {
 public class ObserverDesignPattern {
     public static void main(String[] args) {
         // Create a channel and subscribers
+        // hello duniya
         Channel channel = new Channel("CoderArmy");
         Channel channelB = new Channel("ComedyVideos");
 
